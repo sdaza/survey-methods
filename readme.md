@@ -1,3 +1,2 @@
-
 # Survey Methods I
 
