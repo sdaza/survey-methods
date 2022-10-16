@@ -1,6 +1,5 @@
 
-# Survey Research Methodology I
-
+# Survey Methods I
 
 - Instructor: Sebastian Daza
 - Email: sebastian.daza@gmail.com
