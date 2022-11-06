@@ -22,9 +22,9 @@ Readings of the course combine book chapters and research papers. All the readin
 The key books of the course are: 
 
 - **SM** = Groves, Robert M., Floyd J. Fowler Jr, Mick P. Couper, James M. Lepkowski, Eleanor Singer, and Roger Tourangeau. 2009. Survey Methodology. 2nd ed. Wiley.
-- **HSM** = Gideon, Lior, ed. 2012. Handbook of Survey Methodology for the Social Sciences. New York, NY: Springer New York.
-- **HSR** = Marsden, Peter V., and James D. Wright, eds. 2010. Handbook of Survey Research. Second edition. Bingley, UK: Emerald.
-- **TSE** = Biemer, Paul P., Edith Desirée de Leeuw, Stephanie Eckman, Brad Edwards, Frauke Kreuter, Lars Lyberg, Clyde Tucker, and Brady T. West, eds. 2017. Total Survey Error in Practice. Hoboken, New Jersey: Wiley.
+- **HSM** = Gideon, Lior, ed. 2012. **Handbook of Survey Methodology for the Social Sciences**. New York, NY: Springer New York.
+- **HSR** = Marsden, Peter V., and James D. Wright, eds. 2010.** Handbook of Survey Research**. Second edition. Bingley, UK: Emerald.
+- **TSE** = Biemer, Paul P., Edith Desirée de Leeuw, Stephanie Eckman, Brad Edwards, Frauke Kreuter, Lars Lyberg, Clyde Tucker, and Brady T. West, eds. 2017. **Total Survey Error in Practice**. Hoboken, New Jersey: Wiley.
 
 ## Class dynamic 
 
@@ -59,7 +59,7 @@ This project requires you to write a brief propoposal to conduct a survey. I wil
     ### Readings: 
 
     - SM Chapter 2
-    - Chapter 1: New Directions in Public Opinion (The Practice of Survey Research Changes and Challenges)
+    - Chapter 1: *New Directions in Public Opinion (The Practice of Survey Research Changes and Challenges)*
 
 ##  Class 2: Nov 23
 
@@ -72,10 +72,10 @@ This project requires you to write a brief propoposal to conduct a survey. I wil
 
     ### Short presentations
     
-    -  TSE Chapter 2: Total Twitter Error
-    -  TSE Chapter 3: Big Data A Survey Research Perspective
+    -  TSE Chapter 2: *Total Twitter Error*
+    -  TSE Chapter 3: *Big Data A Survey Research Perspective*
     -  Panel Conditioning in Longitudinal Social Science Surveys
-    -  HSM Chapter 12: How good is survey measurement? Assessing the reliability and validity of survey measures
+    -  HSM Chapter 12: *How good is survey measurement? Assessing the reliability and validity of survey measures*
 ##  Class 3: Nov 24 (Thursday)
 
 - Methods of data collection
@@ -84,14 +84,14 @@ This project requires you to write a brief propoposal to conduct a survey. I wil
     ### Readings
 
     - SM Chapter 5
-    - Chapter 7: Making sense of the social world: methods of investigation (Survey Methodology)
+    - Chapter 7: *Making sense of the social world: methods of investigation (Survey Methodology)*
   
     ### Short presentations
     
-    - HSR Chapter 17: Mixed-model surveys
-    - HSR Chapter 16: Internet Surveys
-    - HSM Chapter 20: Building your own online planel via e-mail and other digital media
-    - HSM Chapter 24: What Survey Modes are Most Effective in Eliciting Self-Reports of Criminal or Delinquent Behavior?
+    - HSR Chapter 17: *Mixed-model surveys*
+    - HSR Chapter 16: *Internet Surveys*
+    - HSM Chapter 20: *Building your own online planel via e-mail and other digital media*
+    - HSM Chapter 24: *What Survey Modes are Most Effective in Eliciting Self-Reports of Criminal or Delinquent Behavior?*
 
 ##  Class 4: Nov 30
 
@@ -104,10 +104,10 @@ This project requires you to write a brief propoposal to conduct a survey. I wil
   
     ### Short presentations
 
-    - HSM Chapter 7: The art of question phrasing
+    - HSM Chapter 7: *The art of question phrasing*
     - Social Desirability Bias in CATI, IVR, and Web Surveys: The Effects of Mode and Question Sensitivity
-    - HSR Chapter 13: Interviewers and interviewing
-    - HSM Chapter 22: Sensitive issues in surveys
+    - HSR Chapter 13: *Interviewers and interviewing*
+    - HSM Chapter 22: *Sensitive issues in surveys*
     - The Science of Asking Questions
 ##  Class 5: Dec 14
 
@@ -121,7 +121,7 @@ This project requires you to write a brief propoposal to conduct a survey. I wil
   ### Short presentations
 
   - Sampling and Estimation in Hidden Populations Using Respondent-Driven Sampling
-  - Chapter 2: The Science of Web Surveys (Sampling and coverage issues for web surveys)
+  - Chapter 2: *The Science of Web Surveys (Sampling and coverage issues for web surveys)*
   - Beyond Power Calculations Assessing Type S (Sign) and Type M (Magnitude) Errors
 ##  Class 6: Dec 21
 
