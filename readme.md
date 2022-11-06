@@ -9,15 +9,15 @@
 
 ## Course Description
 
-This course is an introduction to survey methodology. We will review how survey data are generated, their limitations, and how to perform adjustments and analysis to get the right estimates. The course examines the mode of interview, sampling concepts, and issues in instrumentation. Most of the course is spent reviewing research that describes the effect of survey design features on survey error, and applied techniques to create a sample and analyze survey data.
+This course is an introduction to survey methodology. We will review how survey data are generated, their limitations, and how to perform adjustments and analysis to get the correct estimates. The course examines the mode of interview, sampling concepts, and issues in instrumentation. Most of the course is spent reviewing research that describes the effect of survey design features on survey error and applied techniques to create a sample and analyze survey data.
 
 ## Objectives
 
-This course consists of lectures and activities in and out of the classroom. Upon successful completion of the course, you should be able to understand the potential and limits of survey methodology, and connect them with data science challenges and issues. 
+This course consists of lectures and activities in and out of the classroom. Upon successful completion of the course, you should be able to understand the potential and limits of survey methodology and connect them with data science challenges and issues. 
 
 ## Books
  
-Readings of the course combine book chapters and research papers. All the readings will be available through [Zotero](https://www.zotero.org/). You should ask to be part of the [course group here](https://www.zotero.org/groups/4707314/survey-methods) to access research papers and books. Please, create an account if you you don't have one.
+Readings of the course combine book chapters and research papers. All the readings will be available through [Zotero](https://www.zotero.org/). It would be best if you asked to be part of the [course group here](https://www.zotero.org/groups/4707314/survey-methods) to access research papers and books. Please, create an account if you don't have one.
 
 The key books of the course are: 
 
@@ -28,25 +28,27 @@ The key books of the course are:
 
 ## Class dynamic 
 
-The course combines lectures, short students presentations, and practical exercises. We will read approximately 2 chapters/articles per class. 
+The course combines lectures, short student presentations, and practical exercises. We will read approximately two chapters/articles per class. 
 
 ## Evaluation: 
 
-Students’ grades will depend on the following: 
+Students' grades will depend on the following: 
 
 - Active participation (discussion) + short presentations during the class (25%)
 - Weekly short assignments (25%)
 - Final project (50%) 
+
 ### Participation and short presentations
 
-Each class, each student will present one research paper in about 5 minutes (no slides), as a way to practice the *elevator speech*. Each presentation should be able to summarize a paper by presenting what is the question o problem it's trying to solve, why it's important, how authors face the issue, results conclusion, good features and limitations of the paper or chapter. The rest of students will ask question to the presenter aftewards. 
+In each class, each student will present one research paper in about 5 minutes (no slides) as a way to practice the *elevator speech*. Each presentation should be able to summarize a paper by presenting the question o problem it's trying to solve, why it's important, how authors face the issue, the results conclusion, good features, and limitations of the paper or chapter. The rest of the students will ask questions to the presenter after the presentation.
     
 ### Short exercises
 
 There will be 2-3 practice exercises. They will sometimes be the base for class discussion.
-### Final project:
 
-This project requires you to write a brief propoposal to conduct a survey. I will provide a detail description of the proyect at least 3 weeks before the project is due. You must work independently on this project. The maximum length is 10 pages of text. All course papers are to be written in a professional style following the format: at least 1 inch margins, double-spaced, 12 font size (Times New Roman), and page-numbered. 
+### Final project
+
+This project requires you to write a brief proposal to conduct a survey. I will provide a detailed description of the proyect at least three weeks before the project is due. You must work independently on this project. The maximum length is ten pages of text. All course papers must be written professionally following the format: at least 1-inch margins, double-spaced, 12 font size (Times New Roman), and page-numbered. 
 
 # Schedule
 
@@ -59,7 +61,7 @@ This project requires you to write a brief propoposal to conduct a survey. I wil
     ### Readings: 
 
     - SM Chapter 2
-    - Chapter 1: *New Directions in Public Opinion (The Practice of Survey Research Changes and Challenges)*
+    - Chapter 1: *New Directions in Public Opinion (The Practice of Survey Research Changes and Challenges)*
 
 ##  Class 2: Nov 23
 
@@ -79,7 +81,7 @@ This project requires you to write a brief propoposal to conduct a survey. I wil
 ##  Class 3: Nov 24 (Thursday)
 
 - Methods of data collection
-- Questionaire design and evaluation 
+- Questionnaire design and evaluation 
 
     ### Readings
 
@@ -90,7 +92,7 @@ This project requires you to write a brief propoposal to conduct a survey. I wil
     
     - HSR Chapter 17: *Mixed-model surveys*
     - HSR Chapter 16: *Internet Surveys*
-    - HSM Chapter 20: *Building your own online planel via e-mail and other digital media*
+    - HSM Chapter 20: *Building your own online panel via e-mail and other digital media*
     - HSM Chapter 24: *What Survey Modes are Most Effective in Eliciting Self-Reports of Criminal or Delinquent Behavior?*
 
 ##  Class 4: Nov 30
@@ -98,7 +100,7 @@ This project requires you to write a brief propoposal to conduct a survey. I wil
 - Introduction to statistical concepts
 - Introduction to sampling
     
-    ###  Readingss
+    ###  Readings
 
     - SM Chapter 3
   
@@ -111,7 +113,7 @@ This project requires you to write a brief propoposal to conduct a survey. I wil
     - The Science of Asking Questions
 ##  Class 5: Dec 14
 
-- How design a sample
+- How to design a sample
 - Sampling strategies
 
   ### Readings
@@ -146,3 +148,5 @@ This project requires you to write a brief propoposal to conduct a survey. I wil
 
     - Measuring public opinion with Surveys
     - The State of Survey Methodology: Challenges, Dilemmas, and New Frontiers in the Era of the Tailored Design
+
+---
