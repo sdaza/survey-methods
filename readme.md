@@ -77,7 +77,7 @@ This project requires you to write a brief proposal to conduct a survey. I will 
     -  TSE Chapter 2: *Total Twitter Error*
     -  TSE Chapter 3: *Big Data A Survey Research Perspective*
     -  Panel Conditioning in Longitudinal Social Science Surveys
-    -  HSM Chapter 12: *How good is survey measurement? Assessing the reliability and validity of survey measures*
+    -  HSR Chapter 12: *How good is survey measurement? Assessing the reliability and validity of survey measures*
 ##  Class 3: Nov 24 (Thursday)
 
 - Methods of data collection
