@@ -28,7 +28,7 @@ The key books of the course are:
 
 ## Class dynamic 
 
-The course combines lectures, short student presentations, and practical exercises. We will read approximately two chapters/articles per class. 
+The course combines lectures, short student presentations, and practical exercises. We will read approximately two chapters/articles per week. 
 
 ## Evaluation: 
 
