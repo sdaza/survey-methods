@@ -90,7 +90,7 @@ This project requires you to write a brief proposal to conduct a survey. I will 
   
     ### Short presentations
     
-    - HSR Chapter 17: *Mixed-model surveys*
+    - HSR Chapter 17: *Mixed-mode surveys*
     - HSR Chapter 16: *Internet Surveys*
     - HSM Chapter 20: *Building your own online panel via e-mail and other digital media*
     - HSM Chapter 24: *What Survey Modes are Most Effective in Eliciting Self-Reports of Criminal or Delinquent Behavior?*
