@@ -1,5 +1,5 @@
 
-# Survey Methods I
+# Survey Research Methodology I
 
 - **Instructor:** Sebastian Daza
 - **Email:** sebastian.daza@gmail.com
@@ -60,7 +60,7 @@ This project requires you to write a brief proposal to conduct a survey. I will 
  
     ### Readings: 
 
-    - SM Chapter 2
+    - SM Chapter 2: *Inference and errors in surveys*
     - Chapter 1: *New Directions in Public Opinion (The Practice of Survey Research Changes and Challenges)*
 
 ##  Class 2: Nov 23
@@ -85,7 +85,7 @@ This project requires you to write a brief proposal to conduct a survey. I will 
 
     ### Readings
 
-    - SM Chapter 5
+    - SM Chapter 5: *Methods of data collection*
     - Chapter 7: *Making sense of the social world: methods of investigation (Survey Methodology)*
   
     ### Short presentations
@@ -102,7 +102,7 @@ This project requires you to write a brief proposal to conduct a survey. I will 
     
     ###  Readings
 
-    - SM Chapter 3
+    - SM Chapter 3: *Target populations, sampling frames, and coverage error*
   
     ### Short presentations
 
@@ -118,7 +118,7 @@ This project requires you to write a brief proposal to conduct a survey. I will 
 
   ### Readings
 
-    - SM Chapter 4
+    - SM Chapter 4: *Sampling design and sampling error*
 
   ### Short presentations
 
@@ -132,6 +132,7 @@ This project requires you to write a brief proposal to conduct a survey. I will 
 
     ### Readings
 
+    - SM Chapter 10: *Postcollection processing of survey data*
     ### Short presentations
 
     - Struggles with Survey Weighting and Regression Modeling
