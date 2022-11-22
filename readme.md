@@ -78,7 +78,7 @@ This project requires you to write a brief proposal to conduct a survey. I will 
     -  TSE Chapter 3: *Big Data A Survey Research Perspective*
     -  Panel Conditioning in Longitudinal Social Science Surveys
     -  HSR Chapter 12: *How good is survey measurement? Assessing the reliability and validity of survey measures*
-##  Class 3: Nov 24 (Thursday)
+##  Class 3: Nov 29 (Tuesday, 3-6pm)
 
 - Methods of data collection
 - Questionnaire design and evaluation 
