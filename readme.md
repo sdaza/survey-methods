@@ -123,7 +123,7 @@ This project requires you to write a brief proposal to conduct a survey. I will 
   ### Short presentations
 
   - Sampling and Estimation in Hidden Populations Using Respondent-Driven Sampling
-  - Chapter 2: *The Science of Web Surveys (Sampling and coverage issues for web surveys)*
+  - The Impact of Survey Mode Design and Questionnaire Length on Measurement Quality
   - Beyond Power Calculations Assessing Type S (Sign) and Type M (Magnitude) Errors
 ##  Class 6: Dec 21
 
