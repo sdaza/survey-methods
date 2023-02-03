@@ -2,7 +2,6 @@
 env
 __pycache__
 students.csv
-h*.ipynb
 *review.docx
 .ipynb_checkpoints
 homeworks/guides/*
