@@ -7,5 +7,5 @@ h*.ipynb
 .ipynb_checkpoints
 homeworks/guides
 homeworks/reviews
-!homeworks/reviews/h02/
-!homeworks/reviews/final/
+!/homeworks/reviews/h02
+!/homeworks/reviews/final
