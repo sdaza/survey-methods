@@ -6,4 +6,6 @@ h*.ipynb
 *review.docx
 .ipynb_checkpoints
 homeworks/guides
-homeworks/reviews/
+homeworks/reviews
+!homeworks/reviews/h02/
+!homeworks/reviews/final/
