@@ -4,7 +4,8 @@ __pycache__
 students.csv
 *review.docx
 .ipynb_checkpoints
-homeworks/guides/*
-homeworks/reviews/*
-!/homeworks/reviews/h02/
-!/homeworks/reviews/final/
+homeworks/
+# homeworks/guides/*
+# homeworks/reviews/*
+# !/homeworks/reviews/h02/
+# !/homeworks/reviews/final/
