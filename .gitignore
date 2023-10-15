@@ -12,3 +12,4 @@ data/2022-23
 # homeworks/reviews/*
 # !/homeworks/reviews/h02/
 # !/homeworks/reviews/final/
+.gitignore
