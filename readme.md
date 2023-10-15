@@ -1,19 +1,19 @@
 
-# Survey Research Methodology I
+# Survey Research Methodology I (2023-24)
 
 - **Instructor:** Sebastian Daza
 - **Email:** sebastian.daza@gmail.com
 - **Location:** 2.A.04:1
-- Wednesdays 18:00 - 20:45 
-- Office hours: by appointment
+- Tuesdays: 18:00 - 20:45 
+- Office hours: By appointment
 
 ## Course Description
 
-This course is an introduction to survey methodology. We will review how survey data are generated, their limitations, and how to perform adjustments and analysis to get the correct estimates. The course examines the mode of interview, sampling concepts, and issues in instrumentation. Most of the course is spent reviewing research that describes the effect of survey design features on survey error and applied techniques to create a sample and analyze survey data.
+This course provides an introduction to survey methodology. We will cover the generation of survey data, their limitations, and techniques for adjusting and analyzing data to obtain accurate estimates. The course explores various aspects such as interview methods, sampling concepts, and instrumentation issues. A significant portion of the course is dedicated to reviewing research that examines the impact of survey design features on survey errors and practical approaches for sampling and analyzing survey data.
 
 ## Objectives
 
-This course consists of lectures and activities in and out of the classroom. Upon successful completion of the course, you should be able to understand the potential and limits of survey methodology and connect them with data science challenges and issues. 
+This course includes classroom lectures and activities. By successfully completing the course, you will gain an understanding of the potential and limitations of survey methodology and how they relate to data science challenges and issues.
 
 ## Books
  
@@ -52,7 +52,7 @@ This project requires you to write a brief proposal to conduct a survey. I will 
 
 # Schedule
 
-##  Class 1: Nov 16
+##  Class 1: Nov 7
 
 - Syllabus introduction
 - Introduction to survey methodology
@@ -63,14 +63,14 @@ This project requires you to write a brief proposal to conduct a survey. I will 
     - SM Chapter 2: *Inference and errors in surveys*
     - Chapter 1: *New Directions in Public Opinion (The Practice of Survey Research Changes and Challenges)*
 
-##  Class 2: Nov 23
+##  Class 2: Nov 14
 
 - Conceptualization and measurement
 - Measurement error, reliability, validity
   
     ### Readings
 
-    - Chapter 4: *Making sense of the social world, methods of investigation (Conceptualization and Measurement)*
+    - Chapter 4: *Making sense of the social world, methods of investigation (conceptualization and measurement)*
 
     ### Short presentations
     
@@ -78,7 +78,8 @@ This project requires you to write a brief proposal to conduct a survey. I will 
     -  TSE Chapter 3: *Big Data A Survey Research Perspective*
     -  Panel Conditioning in Longitudinal Social Science Surveys
     -  HSR Chapter 12: *How good is survey measurement? Assessing the reliability and validity of survey measures*
-##  Class 3: Nov 29 (Tuesday, 3-6pm, same classroom)
+
+##  Class 3: Nov 21
 
 - Methods of data collection
 - Questionnaire design and evaluation 
@@ -95,7 +96,7 @@ This project requires you to write a brief proposal to conduct a survey. I will 
     - HSM Chapter 20: *Building your own online panel via e-mail and other digital media*
     - HSM Chapter 24: *What Survey Modes are Most Effective in Eliciting Self-Reports of Criminal or Delinquent Behavior?*
 
-##  Class 4: Nov 30
+##  Class 4: Nov 28
 
 - Introduction to statistical concepts
 - Introduction to sampling
@@ -111,7 +112,8 @@ This project requires you to write a brief proposal to conduct a survey. I will 
     - HSR Chapter 13: *Interviewers and interviewing*
     - HSM Chapter 22: *Sensitive issues in surveys*
     - The Science of Asking Questions
-##  Class 5: Dec 14
+    - 
+##  Class 5: Dec 5
 
 - How to design a sample
 - Sampling strategies
@@ -125,7 +127,8 @@ This project requires you to write a brief proposal to conduct a survey. I will 
   - Sampling and Estimation in Hidden Populations Using Respondent-Driven Sampling
   - The Impact of Survey Mode Design and Questionnaire Length on Measurement Quality
   - Beyond Power Calculations Assessing Type S (Sign) and Type M (Magnitude) Errors
-##  Class 6: Dec 21
+  
+##  Class 6: Dec 12
 
 - Selection of samples using R
 - Analyzing complex survey data
@@ -140,7 +143,7 @@ This project requires you to write a brief proposal to conduct a survey. I will 
     - Failure and Success in Political Polling and Election Forecasting
 
 
-##  Class 7: Jan 11
+##  Class 7: Dec 19
 
 - Analyzing complex survey data (continuation)
 - Sample adjustments
