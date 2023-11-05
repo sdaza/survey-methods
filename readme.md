@@ -46,9 +46,9 @@ In each class, each student will present one research paper in about 3 minutes (
 
 There will be 2-3 practice exercises. Sometimes, they will serve as the foundation for class discussions.
 
-### Final project
+### Final assigment
 
-This project requires you to write a brief proposal to conduct a survey. I will provide a detailed description of the proyect at least three weeks before the project is due. You must work independently on this project. 
+The final assignment will be a comprehensive task that covers the majority of the class material and involves coding. It is important to note that you are expected to work on this project independently.
 
 ## Format 
 
@@ -75,6 +75,7 @@ All course assignments should be written professionally according to the followi
     
     ###  Readings
 
+    - SM Chapter 6: *Nonresponse in sample surveys*
     - SM Chapter 3: *Target populations, sampling frames, and coverage error*
   
     ### Short presentations
@@ -87,8 +88,8 @@ All course assignments should be written professionally according to the followi
 
 ##  Class 3: Nov 21
 
-- How to design a sample
-- Selection of samples using R
+- Sampling design
+- Sampling with R
 
   ### Readings
 
