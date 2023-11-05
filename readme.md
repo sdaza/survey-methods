@@ -40,19 +40,19 @@ Students' grades will depend on the following:
 
 ### Participation and short presentations
 
-In each class, each student will present one research paper in about 3 minutes (no slides) as a way to practice your *elevator speech*. Each presentation should be able to summarize a paper by presenting the question o problem it's trying to solve, why it's important, how authors face the issue, the results conclusion, good features, and limitations of the paper or chapter. The rest of the students will ask questions to the presenter after the presentation.
+In each class, each student will present one research paper in about **3 minutes (no slides) **as a way to practice your *elevator speech*. Each presentation should be able to summarize a paper by presenting the question o problem it's trying to solve, why it's important, how authors face the issue, the results conclusion, good features, and limitations of the paper or chapter. The rest of the students will ask questions to the presenter after the presentation.
     
 ### Short exercises
 
-There will be 2-3 practice exercises. Sometimes, they will serve as the foundation for class discussions.
+There will be **2-3 practice exercises**. Sometimes, they will serve as the foundation for class discussions.
 
 ### Final assigment
 
-The final assignment will be a comprehensive task that covers the majority of the class material and involves coding. It is important to note that you are expected to work on this project independently.
+The final assignment will be a comprehensive task that covers the majority of the class material and involves coding. It is important to note that **you are expected to work on this project independently**.
 
 ## Format 
 
-All course assignments should be written professionally according to the following format: 1-inch margins, double-spaced, 12-point font size (Times New Roman), and page numbers. Please submit only PDF files. Keep the assignments concise and focused.
+All course assignments must adhere to the following professional format: 1-inch margins, double spacing, 12-point font size (Times New Roman), and page numbers. **Please ensure that you submit only PDF files. It is important to keep the assignments concise and focused.**
 
 
 # Lecture Schedule
@@ -106,8 +106,7 @@ All course assignments should be written professionally according to the followi
 
 ##  Class 4: Nov 28
 
-- Analyzing complex survey data
-- Sample adjustments
+- Analyzing complex survey data and making sample adjustments
 
     ### Readings
 
@@ -128,7 +127,7 @@ All course assignments should be written professionally according to the followi
 
     ### Readings
 
-    - SM Chapter 10: *Postcollection processing of survey data*
+    - Chapter 4: *Making sense of the social world, methods of investigation (conceptualization and measurement)*
     
     ### Short presentations
 
@@ -145,7 +144,7 @@ All course assignments should be written professionally according to the followi
   
     ### Readings
 
-    - Chapter 4: *Making sense of the social world, methods of investigation (conceptualization and measurement)*
+    - SM Chapter 7: *Questions and answers in surveys*
 
     ### Short presentationsMea
     
