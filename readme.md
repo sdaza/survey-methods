@@ -146,7 +146,7 @@ All course assignments must adhere to the following professional format: 1-inch 
 
     - SM Chapter 7: *Questions and answers in surveys*
 
-    ### Short presentationsMea
+    ### Short presentations
     
     - Measuring Public Opinion with Surveys
     - HSR Chapter 12: How good is survey measurement? Assessing the reliability and validity of survey measures
