@@ -40,11 +40,11 @@ Students' grades will depend on the following:
 
 ### Participation and short presentations
 
-In each class, each student will present one research paper in about **3 minutes (no slides) **as a way to practice your *elevator speech*. Each presentation should be able to summarize a paper by presenting the question o problem it's trying to solve, why it's important, how authors face the issue, the results conclusion, good features, and limitations of the paper or chapter. The rest of the students will ask questions to the presenter after the presentation.
+In each class, each student will present one research paper in about **3 minutes (no slides)** as a way to practice your *elevator speech*. Each presentation should be able to summarize a paper by presenting the question o problem it's trying to solve, why it's important, how authors face the issue, the results conclusion, good features, and limitations of the paper or chapter. The rest of the students will ask questions to the presenter after the presentation.
     
 ### Short exercises
 
-There will be **2-3 practice exercises**. Sometimes, they will serve as the foundation for class discussions.
+There will be **2-3 practice** exercises, which will also serve as the foundation for class discussions.
 
 ### Final assigment
 
@@ -144,6 +144,7 @@ All course assignments must adhere to the following professional format: 1-inch 
   
     ### Readings
 
+    - Chapter 7: *Making sense of the social world: methods of investigation (Survey Methodology)*
     - SM Chapter 7: *Questions and answers in surveys*
 
     ### Short presentations
@@ -161,8 +162,7 @@ All course assignments must adhere to the following professional format: 1-inch 
     ### Readings
 
     - SM Chapter 5: *Methods of data collection*
-    - Chapter 7: *Making sense of the social world: methods of investigation (Survey Methodology)*
-  
+
     ### Short presentations
     
     - HSR Chapter 17: Mixed-mode surveys
