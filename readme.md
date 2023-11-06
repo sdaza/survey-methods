@@ -84,7 +84,7 @@ All course assignments must adhere to the following professional format: 1-inch 
     - Chapter 1: New Directions in Public Opinion (The Practice of Survey Research Changes and Challenges)
     - TSE Chapter 3: Total survey error in practice (Big Data A Survey Research Perspective)
     - TSE Chapter 2: Total survey error in practice (Total Twitter Error)
-    - Integrating Survey Data and Digital Trace Data: Key Issues in Developing an Emerging Fiel
+    - Integrating Survey Data and Digital Trace Data: Key Issues in Developing an Emerging Field
 
 ##  Class 3: Nov 21
 
