@@ -23,7 +23,7 @@ The key books of the course are:
 
 - **SM** = Groves, Robert M., Floyd J. Fowler Jr, Mick P. Couper, James M. Lepkowski, Eleanor Singer, and Roger Tourangeau. 2009. **Survey Methodology**. 2nd ed. Wiley.
 - **HSM** = Gideon, Lior, ed. 2012. **Handbook of Survey Methodology for the Social Sciences**. New York, NY: Springer New York.
-- **HSR** = Marsden, Peter V., and James D. Wright, eds. 2010. ** Handbook of Survey Research**. Second edition. Bingley, UK: Emerald.
+- **HSR** = Marsden, Peter V., and James D. Wright, eds. 2010. **Handbook of Survey Research**. Second edition. Bingley, UK: Emerald.
 - **TSE** = Biemer, Paul P., Edith Desirée de Leeuw, Stephanie Eckman, Brad Edwards, Frauke Kreuter, Lars Lyberg, Clyde Tucker, and Brady T. West, eds. 2017. **Total Survey Error in Practice**. Hoboken, New Jersey: Wiley.
 
 ## Class dynamic 
